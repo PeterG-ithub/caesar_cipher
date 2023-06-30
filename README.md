@@ -7,7 +7,6 @@ This repository contains a collection of Ruby practice exercises that I have com
 - [Getting Started](#getting-started)
 - [Exercises](#exercises)
 - [Credits](#credits)
-- [License](#license)
 
 ## Getting Started
 
@@ -22,11 +21,8 @@ To run each exercise, simply click on the repl.it link provided below:
 - [Exercise 1: Caesar Cipher](repl.it-link-1)
 - [Exercise 2: ](repl.it-link-2)
 - [Exercise 3: ](repl.it-link-3)
-- ...
 
 Clicking on the repl.it link will open the exercise in a ready-to-run Ruby environment on repl.it. You can then modify the code or add inputs to test different scenarios. Once you're ready, click the "Run" button to execute the code and see the output.
-
-Feel free to explore or modify the exercises.
 
 ## Credits
 
