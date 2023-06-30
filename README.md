@@ -19,7 +19,7 @@ The exercises in this repository cover a wide range of Ruby programming concepts
 To run each exercise, simply click on the repl.it link provided below:
 
 - [Caesar Cipher](https://replit.com/@Petahs/caesar-cipher#main.rb)
-- [Exercise 2: ](repl.it-link-2)
+- [Substrings](https://replit.com/@Petahs/substrings#main.rb)
 - [Exercise 3: ](repl.it-link-3)
 
 Clicking on the repl.it link will open the exercise in a ready-to-run Ruby environment on repl.it. You can then modify the code or add inputs to test different scenarios. Once you're ready, click the "Run" button to execute the code and see the output.
