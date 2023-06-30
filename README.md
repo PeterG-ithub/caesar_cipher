@@ -18,7 +18,7 @@ The exercises in this repository cover a wide range of Ruby programming concepts
 
 To run each exercise, simply click on the repl.it link provided below:
 
-- [Exercise 1: Caesar Cipher](repl.it-link-1)
+- [Caesar Cipher](https://replit.com/@Petahs/caesar-cipher#main.rb)
 - [Exercise 2: ](repl.it-link-2)
 - [Exercise 3: ](repl.it-link-3)
 
