@@ -20,7 +20,7 @@ To run each exercise, simply click on the repl.it link provided below:
 
 - [Caesar Cipher](https://replit.com/@Petahs/caesar-cipher#main.rb)
 - [Substrings](https://replit.com/@Petahs/substrings#main.rb)
-- [Exercise 3: ](repl.it-link-3)
+- [Stock picker](https://replit.com/@Petahs/stock-picker#main.rb)
 
 Clicking on the repl.it link will open the exercise in a ready-to-run Ruby environment on repl.it. You can then modify the code or add inputs to test different scenarios. Once you're ready, click the "Run" button to execute the code and see the output.
 
