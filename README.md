@@ -2,12 +2,6 @@
 
 This repository contains a collection of Ruby practice exercises that I have completed as part of [The Odin Project](https://www.theodinproject.com/)'s Full Stack Ruby on Rails curriculum. The exercises are designed to help me strengthen my Ruby programming skills and gain hands-on experience in solving various coding challenges.
 
-## Table of Contents
-
-- [Getting Started](#getting-started)
-- [Exercises](#exercises)
-- [Credits](#credits)
-
 ## Getting Started
 
 Feel free to explore the exercises and experiment with different inputs to test the code by clicking the links below. The repl.it environment provides an easy and convenient way to run Ruby code without the need for local setup.
@@ -24,6 +18,47 @@ To run each exercise, simply click on the repl.it link provided below:
 - [Bubble Sort](https://replit.com/@Petahs/bubble-sort#main.rb)
 
 Clicking on the repl.it link will open the exercise in a ready-to-run Ruby environment on repl.it. You can then modify the code or add inputs to test different scenarios. Once you're ready, click the "Run" button to execute the code and see the output.
+
+## Installation
+If you want to run the project locally:
+
+### Prerequisites
+
+- Ruby installed on your system
+
+### Windows
+
+1. Ensure you have Ruby installed. If not, download and install it from [here](https://www.ruby-lang.org/en/downloads/).
+2. Clone this repository to your local machine.
+    ```bash
+        git@github.com:PeterG-ithub/ruby-practice.git
+3. Navigate to the directory where you cloned the repository.
+    ```bash
+        cd .\ruby-practice\whichever\folder\you\want\to\run
+4. Run `main.rb` to start the game.
+    ```bash
+        ruby main.rb  
+
+### Linux
+
+1. Open a terminal.
+2. Ensure you have Ruby installed by running `ruby --version`. 
+    ```bash
+        ruby --version
+If not, install Ruby using your package manager.
+    ```bash
+        sudo apt update
+        sudo apt-get install ruby-full
+
+3. Clone this repository to your local machine.
+    ```bash
+        git@github.com:PeterG-ithub/ruby-practice.git
+4. Navigate to the directory where you cloned the repository.
+    ```bash
+        cd ruby-practice/whichever/folder/you/want/to/run
+5. Run `main.rb` to start the game.
+    ```bash
+        ruby main.rb
 
 ## Credits
 
